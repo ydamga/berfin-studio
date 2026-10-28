@@ -135,7 +135,7 @@ export const faq = {
   items: [
     {
       q: 'Çekim hizmeti paketlere dahil mi?',
-      a: 'Büyüme Paketi ve Profesyonel Paket’te çekim dahildir. Çekim sizin mekânınızda yapılabilir. Giriş Paketi’nde yerinde çekim yoktur, gerekirse ayrıca tekliflendirilir. Şehir dışı çekimlerde seyahat giderleri ayrıca belirtilir.',
+      a: 'Her pakette videolar kurgusuyla birlikte hazırlanır ve çekim sizin mekânınızda yapılabilir. Stüdyo, oyuncu ve seyahat giderleri pakete dahil değildir; gerekirse önceden yazılı olarak belirtilir.',
     },
     {
       q: 'Kaç revizyon hakkımız var?',
@@ -147,7 +147,7 @@ export const faq = {
     },
     {
       q: 'Hesap yönetimi, reklam ve KDV fiyata dahil mi?',
-      a: 'Hayır. Paketler içerik üretimini kapsar; hesap yönetimi, paylaşım, reklam bütçesi ve reklam yönetimi dahil değildir. Tüm fiyatlar aylık ve KDV hariçtir.',
+      a: 'Hayır. Paketler video, kurgu, sosyal medya tasarımı ve hikâye üretimini kapsar; Büyüme ve Profesyonel paketlerde branding çalışması da vardır. Hesap yönetimi, paylaşım ve reklam yönetimi dahil değildir. Reklam bütçesi, stüdyo, oyuncu ve seyahat giderleri ayrıca karşılanır. Tüm fiyatlar aylık ve KDV hariçtir.',
     },
     {
       q: 'Projeye nasıl başlayabiliriz?',
